@@ -3,7 +3,7 @@
 Simple [Sokoban](https://en.wikipedia.org/wiki/Sokoban) port on STM32F746G-DISCO device with 480x272 LCD touch panel (but due to remote classes, the control was done with buttons).
 
 Presentation:
-[YouTube]([./Src/sokoban.c](https://www.youtube.com/watch?v=PWS85KKeUfU))
+[YouTube](https://www.youtube.com/watch?v=PWS85KKeUfU)
 
 Main logic is located in following files:
 * [main.c](./Src/main.c#L1576) (`StartDefaultTask` function)
