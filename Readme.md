@@ -10,7 +10,7 @@ Main logic is located in following files:
 * [sokoban.c](./Src/sokoban.c)
 * [sokoban.h](./Inc/sokoban.h)
 
-Game logic is really simple and whole game code has ~300 lines of code. \
+Game logic is really simple and whole game has ~300 lines of code. \
 Possible improvements:
 * usage of background layer to draw borders/empty space
 * now every player action requires redrawing whole screen - it would be better to draw only changed elements
